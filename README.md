@@ -3,34 +3,6 @@ COMP401 Code Style Assignment Fall 2019
 
 # This was an assignment from a previous semester. You are given the solution (with bad code style). It is your job to fix the solution so that it still passes all the JUnit tests and abides by good code style. You can use the code style guidelines on Sakai as a reference for helping you. The following is the assignment description to help you get a better idea of what's going on
 
-Skip to content
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@kag728 
-1
-00Fall2018COMP401-001/a2-starter Private
- Code Issues 0 Pull requests 0 Projects 0 Wiki Security Insights Settings
-A2 Starter Code
- 12 commits
- 1 branch
- 0 releases
- 1 contributor
-@kmayerpatel
-kmayerpatel Init commit
-Latest commit
-32b564b
-on Sep 12, 2018
-Type	Name	Latest commit message	Commit time
-src/a2	Init commit	last year
-.gitignore	Initial commit	last year
-README.md	Update README.md	last year
- README.md
-Assignment 2
 Basic objects
 This assignment will require you to create a few basic classes that implement an interface. The interfaces are provided in the skeleton code in this repository and represent a standard playing card, a standard deck of 52 cards, and a poker hand (i.e., a collection of 5 cards that can be categorized by the rank/suit relationships of the cards).
 
