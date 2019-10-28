@@ -1,13 +1,13 @@
-package a2test;
+package tests;
 
 import static org.junit.Assert.*;
 
 import org.junit.Test;
 
-import a2.Card;
+import style.Card;
 
-import a2.Card;
-import a2.CardImpl;
+import style.Card;
+import style.CardImpl;
 
 public class A2NoviceTests {
 

@@ -1,4 +1,4 @@
-package a2;
+package style;
 
 public class CardImpl implements Card {
 	private static String[] strings = {null, null, "Two", "Three", "Four", "Five", "Six", "Seven", "Eight", "Nine", "Ten", "Jack", "Queen", "King", "Ace"};

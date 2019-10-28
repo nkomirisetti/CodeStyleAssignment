@@ -1,14 +1,14 @@
-package a2test;
+package tests;
 
 import static org.junit.Assert.*;
 
 import org.junit.Test;
 
-import a2.Card;
-import a2.CardImpl;
+import style.Card;
+import style.CardImpl;
 
-import a2.PokerHand;
-import a2.PokerHandImpl;
+import style.PokerHand;
+import style.PokerHandImpl;
 
 public class A2AdeptTests {
 

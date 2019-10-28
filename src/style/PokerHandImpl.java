@@ -1,4 +1,4 @@
-package a2;
+package style;
 
 public class PokerHandImpl implements PokerHand {
 
